@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Yang Haodong
 
-You can use the [editor on GitHub](https://github.com/MeetU18/HUMyang/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MS.Student
+Computer science
+University of chinese academy of science[Link](http://www.ucas.edu.cn/), Beijing, China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email:y_1821[at]163[dot]com
 
-### Markdown
+### About Me
+I am a MS.Student in University of chinese academy of science.Before I becoming a MS.Student, I also received my bachlor degree from Harbin Institute of Technology[Link](http://www.hit.edu.cn/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+### Publications
 
-# Header 1
-## Header 2
-### Header 3
+### Education and Experience
 
-- Bulleted
-- List
+### Honors anhttp://www.hit.edu.cn/d Awards
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+### Teaching
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MeetU18/HUMyang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
